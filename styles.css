@@ -6,14 +6,14 @@ body {
   }
   
   h1 {
-    color: #66bfbf;
+    color: #000;
     font-size: 5.625rem;
     margin-top: 50px auto 0 auto;
     font-family: "Sacramento", cursive;
   }
   
   h2 {
-    color: #66bfbf;
+    color: #000;
     font-family: "Montserrat", sans-serif;
     font-size: 2.5rem;
     font-weight: normal;
